@@ -39,3 +39,9 @@ npm i nodemon
 ```
 
 (for faster server restart on save).
+
+7. At last start your server through:
+
+    ```bash
+    nodemon index.js
+    ```
