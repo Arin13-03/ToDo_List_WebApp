@@ -42,6 +42,6 @@ npm i nodemon
 
 7. At last start your server through:
 
-    ```bash
-    nodemon index.js
-    ```
+```bash
+nodemon index.js
+```
